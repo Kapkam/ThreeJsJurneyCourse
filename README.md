@@ -11,3 +11,9 @@ Here are the exercise DEMOs uploaded to Vercel, where you can see live demonstra
 - **Galaxy (Lesson 18)**: [Live Demo](https://galaxy-threejs-jurney.vercel.app/)
 
 ![ThreeJS Journey](https://jordi.casa/wp-content/uploads/2023/09/threejs-journey.jpg)
+
+## Models created by Blender
+
+- Basic hamburger 🍔 . . . _It's look tasty 🤤_
+
+![Basic Hamburger](https://github.com/Kapkam/ThreeJsJurneyCourse/blob/master/23/exercise/static/models/hamburger.png)
